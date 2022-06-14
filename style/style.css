@@ -7,17 +7,6 @@
   font-family: 'Lexend Deca', sans-serif;
 }
 
-:root {
-  --white: #FFF;
-  --whitesmoke: #F9F9F9;
-  --light-grey: #ECECEC;
-  --grey: #C4C4C4;
-  --medium-grey: #A7A7A7;
-  --deep-grey: #343434;
-  --black: #000000;
-  --blue: #1B77F3;
-  --red: #CF3C3F;
-}
 
 main {
   display: flex;
@@ -198,7 +187,7 @@ main {
 
 .wallpaper {
   width: 100%;
-  background-image: url('./images/wallpaper.jpg');
+  background-image: url('../img/wallpaper.jpg');
   background-size: cover;
   background-position: center;
   flex: 1;
